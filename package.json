@@ -1,0 +1,23 @@
+{
+  "name": "msocial-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eretik32/m-social.git"
+  },
+  "author": "Yarovoy Alexey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eretik32/m-social/issues"
+  },
+  "homepage": "https://github.com/eretik32/m-social#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
